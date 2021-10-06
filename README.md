@@ -12,7 +12,7 @@ Last updated: Fall 2021.
 
 ## Slides
 
-[Slides are available]().
+[Slides are available](https://jennhuck.github.io/organizeForRepro/slides/organizeForRepro.html).
 
 ## Prep
 
