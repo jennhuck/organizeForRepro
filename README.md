@@ -12,7 +12,9 @@ Last updated: Fall 2021.
 
 ## Slides
 
-[Slides are available](https://jennhuck.github.io/organizeForRepro/slides/organizeForRepro.html).
+[Slides](https://jennhuck.github.io/organizeForRepro/slides/organizeForRepro.html) are available.
+
+[Presenter mode](https://jennhuck.github.io/organizeForRepro/slides/organizeForRepro.html?presentme=true) slides are also available.  Allow pop-ups.
 
 ## Prep
 
