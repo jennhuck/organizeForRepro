@@ -16,6 +16,10 @@ Last updated: Fall 2021.
 
 [Presenter mode](https://jennhuck.github.io/organizeForRepro/slides/organizeForRepro.html?presentme=true) slides are also available.  Allow pop-ups.
 
+## Slides - DADA
+
+This presentation is for DADA Quantitative Psychology group at UVA, 2021-12-01.
+
 ## Prep
 
 This is mostly a lecture-based workshop. There are no prerequisites.
